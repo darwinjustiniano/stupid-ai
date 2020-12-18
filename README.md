@@ -1,0 +1,2 @@
+# stupid-ai
+machine learning
